@@ -1,30 +1,18 @@
 -Title
-Hi 👋, I'm
-name Anita saroj
+Hi 👋, I'm name Anita saroj
 Subtitle
 A passionate frontend developer from India
 Work
-🔭 I’m currently working on
-High cloud Airline
+🔭 I’m currently working on High cloud Airline
 project link
-👯 I’m looking to collaborate on
- Appurtunity for Data Anlytics job
+👯 I’m looking to collaborate on Appurtunity for Data Anlytics job
 project link
-🤝 I’m looking for help with
-project name
-project link
-🌱 I’m currently learning
-Frameworks, courses etc.
-💬 Ask me about
-react, vue and gsap
-📫 How to reach me
-anitasaroj9601@gmail.com
-👨‍💻 All of my projects are available at
-portfolio link
-⚡ Fun fact
-I think I am funny
-Skills
-Search Skills
+🤝 I’m looking for help with project name  project link
+🌱 I’m currently learning Frameworks, courses etc.
+💬 Ask me about react, vue and gsap
+📫 How to reach me anitasaroj9601@gmail.com
+👨‍💻 All of my projects are available at portfolio link
+⚡ Fun fact I think I am funny Skills Search Skills
 Programming Languages
 
 Advance Excel
